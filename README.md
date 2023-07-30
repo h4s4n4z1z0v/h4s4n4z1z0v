@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @h4s4n4z1z0v
 - 👀 I’m interested in mobile app development and pentesting.
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning python
 - 📫 How to reach me https://www.linkedin.com/in/hasan-azizov/
 
 <!---
