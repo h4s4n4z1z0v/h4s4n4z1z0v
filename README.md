@@ -3,7 +3,7 @@
 <p align="center">
   🛡️ Cybersecurity Enthusiast | 🐍 Python Developer | 🛠️ Offensive Toolmaker | 💣 Malware Crafter
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=030A0D&background=59F8FF00&width=3000&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%7C+%F0%9F%90%8D+Python+Developer+%7C+%F0%9F%9B%A0%EF%B8%8F+Offensive+Toolmaker+%7C+%F0%9F%92%A3+Malware+Crafter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=030A0D&background=59F8FF00&center=true&width=3000&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%7C+%F0%9F%90%8D+Python+Developer+%7C+%F0%9F%9B%A0%EF%B8%8F+Offensive+Toolmaker+%7C+%F0%9F%92%A3+Malware+Crafter" alt="Typing SVG" /></a>
 ---
 ## 🧠 Haqqımda
 
