@@ -1,13 +1,41 @@
- Hey there, I'm @h4s4n4z1z0v!
+<h1 align="center">👋 Salam! Mən Hasan Azizov</h1>
 
-👀 I'm passionate about mobile app development and the exciting world of pentesting.
+<p align="center">
+  🛡️ Cybersecurity Enthusiast | 🐍 Python Developer | 🛠️ Offensive Toolmaker | 💣 Malware Crafter
+</p>
 
-🌱 Currently, I'm diving deep into the world of Python, honing my skills to become a versatile developer and ethical hacker.
+---
 
-📫 Connect with me on LinkedIn: Hasan Azizov
+## 🧠 Haqqımda
 
-My GitHub is filled with projects showcasing my journey, ranging from mobile apps to cybersecurity explorations. Feel free to explore my repositories and don't forget to give them a ⭐ if you find something interesting!
+Mən Hasan, informasiya təhlükəsizliyi sahəsinə fokuslanan, özünü bu sahədə davamlı şəkildə inkişaf etdirən bir tədqiqatçıyəm. Əsas marağım web tətbiqlərin zəifliklərinin təhlili, istismarı (exploitation), zərərli proqram nümunələrinin hazırlanması və offensive security yönümlü özəl alətlər yazmaqdır.
 
-🔭 I love collaborating on open-source projects, so if you have any cool ideas or projects you'd like to work on together, let's team up and make something awesome!
+> Mənim üçün hacking sadəcə sistemləri pozmaq deyil – **sistemi anlamaq, analiz etmək və ona qarşı müdafiə qurmaqdır**.
 
-Keep coding and stay curious! 😄✨
+- 🌍 Azərbaycanlı Cybersecurity tədqiqatçısı
+- 🧰 Özümə məxsus pentest alətləri və skriptlər yazıram
+- 🔐 Real dünya zəifliklərini simulyasiya edir və təhlil aparıram
+- 💬 Daim öyrənirəm, paylaşır və sənədləşdirirəm
+
+---
+
+## 🚀 Bacarıq Sahələrim
+
+| Sahə                     | Tətbiq və Alətlər                                     |
+|--------------------------|--------------------------------------------------------|
+| 🔐 Web Pentesting         | OWASP Top 10, Burp Suite, SQLi, XSS, CSRF, Auth Bypass |
+| 🐍 Python Development     | `requests`, `socket`, `subprocess`, `tkinter`, `PyInstaller` |
+| 💣 Malware Development    | Basic C2, Keylogger, Dropper, Obfuscation, Payload Creation |
+| 🛠️ Tool Development       | Custom scanners, brute force tools, fuzzers, payload generators |
+| ⚙️ OS və Mühitlər         | Kali Linux, Parrot OS, Windows, Ubuntu, VirtualBox     |
+| 📂 Əlavə Biliklər         | Git, Bash, Enumeration, Privilege Escalation           |
+
+## 🧠 Devizim
+
+> “Real hacker — sistemin zəifliklərini yox, sistemin **təbiətini** anlayandır.”
+---
+
+## ⭐ Dəstək olun
+
+Əgər layihə və scriptlərim sizə fayda veribsə, bu profili izləyin və ⭐ verməklə mənə dəstək olun. Sizin kimi öyrənməyə açıq şəxslərlə tanış olmaqdan məmnunam!
+
