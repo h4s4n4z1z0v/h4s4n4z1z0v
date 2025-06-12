@@ -25,7 +25,7 @@ Mən Hasan, informasiya təhlükəsizliyi sahəsinə fokuslanan, özünü bu sah
 |--------------------------|--------------------------------------------------------|
 | 🔐 Web Pentesting         | OWASP Top 10, Burp Suite, SQLi, XSS, CSRF, Auth Bypass |
 | 🐍 Python Development     | `requests`, `socket`, `subprocess`, `tkinter`, `PyInstaller` |
-| 💣 Malware Development    | Basic C2, Keylogger, Dropper, Obfuscation, Payload Creation |
+| 💣 Malware Development    | Keylogger, Dropper, Obfuscation, Payload Creation |
 | 🛠️ Tool Development       | Custom scanners, brute force tools, fuzzers, payload generators |
 | ⚙️ OS və Mühitlər         | Kali Linux, Parrot OS, Windows, Ubuntu, VirtualBox     |
 | 📂 Əlavə Biliklər         | Git, Bash, Enumeration, Privilege Escalation           |
