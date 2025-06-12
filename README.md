@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salam! Mən Hasan Azizov</h1>
+<h1 align="center">👋 Salam! Mən Həsən Əzizov</h1>
 
 <p align="center">
   🛡️ Cybersecurity Enthusiast | 🐍 Python Developer | 🛠️ Offensive Toolmaker | 💣 Malware Crafter
@@ -7,7 +7,7 @@
 ---
 ## 🧠 Haqqımda
 
-Mən Hasan, informasiya təhlükəsizliyi sahəsinə fokuslanan, özünü bu sahədə davamlı şəkildə inkişaf etdirən bir tədqiqatçıyəm. Əsas marağım web tətbiqlərin zəifliklərinin təhlili, istismarı (exploitation), zərərli proqram nümunələrinin hazırlanması və offensive security yönümlü özəl alətlər yazmaqdır.
+Mən Həsən, informasiya təhlükəsizliyi sahəsinə fokuslanan, özünü bu sahədə davamlı şəkildə inkişaf etdirən bir tədqiqatçıyəm. Əsas marağım web tətbiqlərin zəifliklərinin təhlili, istismarı (exploitation), zərərli proqram nümunələrinin hazırlanması və offensive security yönümlü özəl alətlər yazmaqdır.
 
 > Mənim üçün hacking sadəcə sistemləri pozmaq deyil – **sistemi anlamaq, analiz etmək və ona qarşı müdafiə qurmaqdır**.
 > 
