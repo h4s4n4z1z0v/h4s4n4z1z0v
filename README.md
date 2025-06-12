@@ -11,7 +11,7 @@ Mən Hasan, informasiya təhlükəsizliyi sahəsinə fokuslanan, özünü bu sah
 
 > Mənim üçün hacking sadəcə sistemləri pozmaq deyil – **sistemi anlamaq, analiz etmək və ona qarşı müdafiə qurmaqdır**.
 > 
-- 🌍 Azərbaycanlı Cybersecurity tədqiqatçısı
+- 🌍 Azərbaycanlı Kibertəhlükəsizlik tədqiqatçısı
 - 🧰 Özümə məxsus pentest alətləri və skriptlər yazıram
 - 🔐 Real dünya zəifliklərini simulyasiya edir və təhlil aparıram
 - 💬 Daim öyrənirəm, paylaşır və sənədləşdirirəm
