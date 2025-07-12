@@ -35,4 +35,6 @@ Mən Həsən, informasiya təhlükəsizliyi sahəsinə fokuslanan, özünü bu s
 ## ⭐ Dəstək olun
 
 Əgər layihə və scriptlərim sizə fayda veribsə, bu profili izləyin və ⭐ verməklə mənə dəstək olun. Sizin kimi öyrənməyə açıq şəxslərlə tanış olmaqdan məmnunam!
+![Cyber GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFicTFpZ2xpNWthb2xva2cwNXhsd2ludzBteHBwdzh0enZjaDF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif)
+
 
