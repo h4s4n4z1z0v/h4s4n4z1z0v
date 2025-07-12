@@ -31,7 +31,6 @@ Mən Həsən, informasiya təhlükəsizliyi sahəsinə fokuslanan, özünü bu s
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=030A0D&width=2200&height=100&lines=%E2%80%9CReal+hacker+%E2%80%94+sistemin+z%C9%99iflikl%C9%99rini+yox%2C+sistemin+t%C9%99bi%C9%99tini+anlayand%C4%B1r.%E2%80%9D" alt="Typing SVG" /></a>
 ---
-![Cyber GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFicTFpZ2xpNWthb2xva2cwNXhsd2ludzBteHBwdzh0enZjaDF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif)
 
 ## ⭐ Dəstək olun
 
